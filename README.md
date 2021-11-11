@@ -1,4 +1,4 @@
-# FoodWars
+# FoodWars App Screenshots
 
 <table>
   <tr>
@@ -26,7 +26,7 @@
 
 
 
-App Features implemented with the following:
+App includes:
 
 -----------------------------------------------------
 
