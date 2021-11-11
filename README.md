@@ -1,5 +1,17 @@
 # FoodWars
 
+<table>
+  <tr>
+    <td>Launcher Screen</td>
+     <td>Receipe Screen</td>
+     <td>Receipe Detail Screen</td>
+  </tr>
+  <tr>
+    <td><img src="![foodwars_launcher](https://user-images.githubusercontent.com/92330080/141214754-f4f3b9c4-0e8c-4539-a931-f347ddd9ede3.PNG)" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141214795-32d524a4-df64-4c33-9acc-9f03621388b6.PNG" width=270 height=480></td>
+    <td><img src="![recipe_detail](https://user-images.githubusercontent.com/92330080/141214816-1c28e199-1ce4-45bd-98de-9e009fa69ad7.PNG)" width=270 height=480></td>
+  </tr>
+ </table>
 
 ![foodwars_launcher](https://user-images.githubusercontent.com/92330080/141214754-f4f3b9c4-0e8c-4539-a931-f347ddd9ede3.PNG)
 
